@@ -6,4 +6,4 @@ I'm currently in my junior year of HS, and I live in the U.S.
 - 🌈 https://pronoun.is/they/them
 - 🌱 **Learning about** privacy & safety on the web
 - ⚒️ **Building** pretty rad websites, i think at least
-- 📫 [coleh@coleh.net](mailto:coleh@coleh.net)
+- 📫 [me@clh.sh](mailto:me@clh.sh)
